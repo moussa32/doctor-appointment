@@ -102,9 +102,8 @@ API endpoints should follow RESTful conventions:
 - **Database**: MongoDB with Mongoose ODM
 - **Authentication**: JWT (JSON Web Tokens)
 - **Testing**: Jest
-- **Deployment**: Docker, CI/CD pipeline
 
 ## Team Roles and Responsibilities
 
-- **Backend Developer (2)**: API development, database design, business logic
-- **Frontend Developer (2)**: UI implementation, client-side functionality
+- **Backend Developer**: API development, database design, business logic
+- **Frontend Developer**: UI implementation, client-side functionality
